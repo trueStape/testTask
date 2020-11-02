@@ -1,4 +1,3 @@
-![alt text](https://downloader.disk.yandex.ru/preview/3b2b9bfaccb53cc762c4c6b29b6ddb809a44fe6f45876bdd129013654d7375e2/5ee26761/k2IpFPeYQbNVSJ3LHJ6-DjHTx2-hejbTtzPqT-xcxcmmGoN7Qgs3YOgdVknCzA1Dad2-pRROcuT9FS3M5szzFg==?uid=0&filename=Example.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=336768120&size=2048x2048)
 # One of my test task
 This repository contains an embedded web application that interacts with the MS SQL database
 # Getting Started
